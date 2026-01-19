@@ -1,6 +1,6 @@
 # NeuralBits Internship Submission - June 2025
 
-👤 Name: Arbaaz  
+👤 Name: Mohammed Arbaaz Shaikh  
 🎓 2nd Year, BCA  
 📁 Project: Hospital Dataset Generator & SQL Analytics  
 
